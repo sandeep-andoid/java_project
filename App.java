@@ -25,7 +25,7 @@ public class App {
             // Build request body
             String body = """
                 {
-                  "name": "Sandeep koli",
+                  "name": "Sandeep kumar koli",
                   "regNo": "22BEC0179",
                   "email": "sandeepkoli8962@gmail.com"
                 }
@@ -46,4 +46,5 @@ public class App {
         };
     }
 }
+
 
