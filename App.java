@@ -11,7 +11,7 @@ import org.springframework.http.MediaType;
 public class App {
 
     public static void main(String[] args) {
-        SpringApplication.run(OneFileApp.class, args);
+        SpringApplication.run(App.class, args);
     }
 
     @Bean
@@ -46,3 +46,4 @@ public class App {
         };
     }
 }
+
